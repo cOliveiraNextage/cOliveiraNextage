@@ -96,15 +96,10 @@ buscando:     Colaborações e projetos desafiadores
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Atividade no GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cOliveiraNextage&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=F97316&icon_color=F97316" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cOliveiraNextage&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=F97316" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cOliveiraNextage&theme=dark&hide_border=true&background=0d1117&stroke=F97316&ring=F97316&fire=F97316&currStreakLabel=F97316" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cOliveiraNextage&theme=github-compact&bg_color=0d1117&color=F97316&line=F97316&point=ffffff&hide_border=true" />
 </div>
 
 ---
