@@ -113,6 +113,14 @@ buscando:     Colaborações e projetos desafiadores
 
 ---
 
+## 🐍 Contribuições
+
+<div align="center">
+  <img src="https://github.com/cOliveiraNextage/cOliveiraNextage/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</div>
+
+---
+
 ## 🌐 Onde me encontrar
 
 <div align="center">
